@@ -13,3 +13,17 @@
     width: 64px;
     height: 64px;
 }
+
+#navbar-brand-title {
+    background: #4aaaa5;
+}
+
+#navbar-brand-title-text {
+    color: #fff;
+
+}
+
+.navbar-nav a{
+    height: 100%;
+    line-height: 100%;
+}   

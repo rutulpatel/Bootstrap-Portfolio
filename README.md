@@ -6,4 +6,4 @@ Bootstrap portfolio website which uses bootstrap css library for css. This proje
 
 ## Technologies Used
 #### Use bullets to list out the technologies used. For example,
-- HTML & CSS
+- HTML & Bootstrap CSS
